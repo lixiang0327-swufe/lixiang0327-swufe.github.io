@@ -20,7 +20,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 我将硕士毕业于四川成都的 西南财经大学 计算机与人工智能学院。本科毕业于河南郑州的 河南大学 。我已经发表 1 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+
 
 我的研究领域包括：
 - 机器学习
@@ -87,6 +87,7 @@ redirect_from:
 
 # 💻 工作实习
 - *2024.1 - 2024.4*, 中国一拖集团, 河南洛阳
+
 
 
 
